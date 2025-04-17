@@ -1,8 +1,8 @@
 # fortune.py
 
 def main():
-    name = "Aryan Singh"
-    admission_number = "21JE1234"
+    name = "Pranav Tanaji Sarate"
+    admission_number = "21JE0673"
 
     print(f"🔮 Welcome to {name}'s Fortune Teller ({admission_number}) 🔮")
     mood = input("How are you feeling today? (happy/sad/neutral): ").lower()
